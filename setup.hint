@@ -1,0 +1,5 @@
+category: Audio OCaml
+requires: liblo7 liblo-devel ocaml-base
+sdesc: "OCaml liblo bindings"
+ldesc: "This package contains an O'Caml interface for the cross-platform 
+audio output library, otherwise known as libao."
