@@ -2,7 +2,7 @@ inherit ocaml
 
 NAME="ocaml-lo"
 VERSION=0.1.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Libs"
 SUMMARY="OCaml liblo bindings"
 DESCRIPTION="This package contains an O'Caml interface for the Open Sound
